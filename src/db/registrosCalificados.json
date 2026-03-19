@@ -1,0 +1,50 @@
+[
+  {
+    "id": "86982902-c603-4a3d-b864-bf7613d42925",
+    "nombre": "Tecnólogo en ADSO",
+    "fechaInicio": "2024-06-15",
+    "fechaFin": "2029-06-15",
+    "estado": 1,
+    "centro": "CTPI"
+  },
+  {
+    "id": "cd64314e-901f-411b-b0e8-8d5a73e9b0d6",
+    "nombre": "Tecnólogo en Gestión de Mercados",
+    "fechaInicio": "2021-03-10",
+    "fechaFin": "2026-03-10",
+    "estado": 1,
+    "centro": "Centro de Comercio"
+  },
+  {
+    "id": "30019d8c-3fbf-4495-8975-b12d068d368d",
+    "nombre": "Técnico en Producción Agropecuaria",
+    "fechaInicio": "2020-08-01",
+    "fechaFin": "2025-08-01",
+    "estado": 0,
+    "centro": "Centro Agropecuario"
+  },
+  {
+    "id": "c09d735c-0e75-479d-bec0-d52e2f127e29",
+    "nombre": "Tecnólogo en Automatización Industrial",
+    "fechaInicio": "2019-11-20",
+    "fechaFin": "2024-11-20",
+    "estado":-1,
+    "centro": "CTPI"
+  },
+  {
+    "id": "b8dfe11f-07f4-4f5b-9255-f624baf4291c",
+    "nombre": "Técnico en Ventas de Productos y Servicios",
+    "fechaInicio": "2023-01-05",
+    "fechaFin": "2028-01-05",
+    "estado": 1,
+    "centro": "Centro de Comercio"
+  },
+  {
+    "id": "ee8a75bf-ac31-446c-80cc-544f47f4eeac",
+    "nombre": "Tecnólogo en Gestión Agrícola",
+    "fechaInicio": "2022-09-12",
+    "fechaFin": "2027-09-12",
+    "estado": 1,
+    "centro": "Centro Agropecuario"
+  }
+]

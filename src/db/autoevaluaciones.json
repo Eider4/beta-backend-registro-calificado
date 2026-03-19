@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3248427c-0319-42ef-92f5-4588de295d11",
+    "fechaInicio": "2026-03-30",
+    "fechaFin": "2026-04-11",
+    "idRegistroCalificado": "86982902-c603-4a3d-b864-bf7613d42925",
+    "fechaRecordatorio": "2026-03-19",
+    "estado": -1
+  },
+  {
+    "id": "f9c48a54-7c19-4ba8-85ca-464c5432dc1d",
+    "fechaInicio": "2026-07-01",
+    "fechaFin": "2026-07-08",
+    "idRegistroCalificado": "86982902-c603-4a3d-b864-bf7613d42925",
+    "fechaRecordatorio": "2026-05-20",
+    "estado": -1
+  },
+  {
+    "id": "2d9fb4bb-b496-4e73-b189-b50d5e66ad44",
+    "fechaInicio": "2026-03-03",
+    "fechaFin": "2026-03-24",
+    "idRegistroCalificado": "ee8a75bf-ac31-446c-80cc-544f47f4eeac",
+    "fechaRecordatorio": "2026-02-04",
+    "estado": -1
+  },
+  {
+    "id": "7aab661f-8cdf-49b9-ba1b-bd96d53d1f66",
+    "fechaInicio": "2026-03-18",
+    "fechaFin": "2026-03-24",
+    "idRegistroCalificado": "cd64314e-901f-411b-b0e8-8d5a73e9b0d6",
+    "fechaRecordatorio": "2026-03-17",
+    "estado": -1
+  }
+]
